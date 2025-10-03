@@ -25,6 +25,7 @@ Pivot Tables & Pivot Charts
 Slicers & Timelines
 
 ## 📊 Dashboard Preview
+![Dashboard Screenshot](https://github.com/PranathiAkula/Coffee-sales-analysis-excel-dashboard/blob/master/coffee_sales_analysis_dashboard.png?raw=true)
 
 
 
