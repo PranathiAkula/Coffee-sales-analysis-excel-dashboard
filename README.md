@@ -27,6 +27,11 @@ Slicers & Timelines
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/PranathiAkula/Coffee-sales-analysis-excel-dashboard/blob/master/coffee_sales_analysis_dashboard.png?raw=true)
 
+## 🚀 KPIs & Business Metrics
+The dashboard tracks overall and segmented sales (by coffee type, roast, size, and region), provides customer insights including loyalty card behavior, highlights product and market performance drivers, and visualizes sales trends over time to support strategic decision-making.
+
+## 👩‍💻Author
+Pranathi Akula
 
 
 
